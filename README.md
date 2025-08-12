@@ -1,4 +1,4 @@
-# Relatorio de Vendas
+# Relatorio de Vendas e Lucratividade
 
 Este projeto tem como objetivo apresentar uma análise detalhada de vendas e lucratividade com foco em diferentes dimensões: produtos, segmentos, países e clientes. Através de uma modelagem visual eficaz, é possível extrair insights estratégicos que auxiliam na compreensão do verdadeiro desempenho do negócio.
 
