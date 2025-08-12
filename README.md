@@ -7,6 +7,9 @@ Este projeto tem como objetivo apresentar uma análise detalhada de vendas e luc
 ## 📊 Visão Geral das Visualizações
 
 ### 1. Análise por Produtos e Segmentos
+
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/e7163adb-9630-43c9-a259-8a7226205f95" />
+
 Esta visão apresenta uma análise segmentada por produtos e categorias, exibindo métricas essenciais como:
 - Valor total de vendas (Sales)
 - Média de vendas
@@ -15,6 +18,9 @@ Esta visão apresenta uma análise segmentada por produtos e categorias, exibind
 Os dados podem ser filtrados por **ano, trimestre e mês**, permitindo análises temporais dinâmicas e granulares.
 
 ### 2. Indicadores por País (KPIs)
+
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/7ae15968-b282-4dd7-8c1e-612ca55bb490" />
+
 Nesta seção, dois indicadores-chave (KPIs) em formato *bignumber* destacam:
 - **Total de vendas**
 - **Custo total de produção**
@@ -22,6 +28,9 @@ Nesta seção, dois indicadores-chave (KPIs) em formato *bignumber* destacam:
 Essa visão é projetada para avaliar o potencial de mercado por país e analisar a rentabilidade associada a cada região, possibilitando decisões mais assertivas sobre alocação de recursos e expansão.
 
 ### 3. Distribuição de Lucro e Vendas por Cliente
+
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/10a95881-0b39-4610-add2-2924ecf8d826" />
+
 A última visão oferece uma representação visual da distribuição de lucro e vendas entre os clientes. Essa análise ajuda a identificar:
 - Clientes mais lucrativos
 - Concentração de receita
